@@ -18764,4 +18764,9 @@ footer .footer-navbar .nav-item:last-child a {
 .four-class {
   height: 400px;
 }
+@media only screen and (max-width: 575px) {
+  .four-class {
+    height: 100%;
+  }
+}
 /*# sourceMappingURL=style.min.css.map */
